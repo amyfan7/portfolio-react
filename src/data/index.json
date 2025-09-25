@@ -8,19 +8,19 @@
         },
         {
             "id": "2",
-            "source": "./img/logo-sm.png",
+            "source": "./img/logo.png",
             "title": "...",
             "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
         },
         {
             "id": "3",
-            "source": "./img/logo-sm.png",
+            "source": "./img/logo.png",
             "title": "...",
             "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
         },
         {
             "id": "4",
-            "source": "./img/logo-sm.png",
+            "source": "./img/logo.png",
             "title": "...",
             "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
         }
