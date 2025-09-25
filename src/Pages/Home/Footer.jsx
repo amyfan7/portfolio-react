@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faFile } from "@fortawesome/free-regular-svg-icons";
+import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 
 function Footer() {
   return (
@@ -60,13 +61,6 @@ function Footer() {
           <ul>
             <li>
               <a 
-              href="https://github.com/amyfan7"
-              className="navbar--content"
-              target="blank">
-                <FontAwesomeIcon icon={faGithub} /></a>
-            </li>
-            <li>
-              <a 
               href="https://linkedin.com/in/amy-fan-87580b256"
               className="navbar--content"
               target="blank">
@@ -74,10 +68,24 @@ function Footer() {
             </li>
             <li>
               <a 
+              href="https://github.com/amyfan7"
+              className="navbar--content"
+              target="blank">
+                <FontAwesomeIcon icon={faGithub} /></a>
+            </li>
+            <li>
+              <a 
               href="./img/resume.pdf"
               className="navbar--content"
               target="blank">
                 <FontAwesomeIcon icon={faFile} /></a>
+            </li>
+            <li>
+              <a 
+              href="mailto:amytfan@gmail.com"
+              className="navbar--content"
+              target="blank">
+                <FontAwesomeIcon icon={faEnvelope} /></a>
             </li>
           </ul>
         </div>
