@@ -1,0 +1,39 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "source": "./img/map.png",
+            "title": "...",
+            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+        },
+        {
+            "id": "2",
+            "source": "./img/logo-sm.png",
+            "title": "...",
+            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+        },
+        {
+            "id": "3",
+            "source": "./img/logo-sm.png",
+            "title": "...",
+            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+        },
+        {
+            "id": "4",
+            "source": "./img/logo-sm.png",
+            "title": "...",
+            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+        }
+    ],
+
+    "portfolio": [
+
+        {
+            "id": "1",
+            "source": "./img/website.jpeg",
+            "title": "Portfolio Website",
+            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique.",
+            "link": "View in Github"
+        }
+    ]
+}
