@@ -11,7 +11,7 @@ export default function Projects () {
                 </div>
             </div>
             <div className="projects--section--container">
-                {data?.portfolio?.map((item, index) => (
+                {data?.projects?.map((item, index) => (
                     <div key={index} className="projects--section--card">
                         <div className="projects--section--img">
                             <img src={item.source} alt="img" />
@@ -21,7 +21,7 @@ export default function Projects () {
                                 <h3 className="projects--section--title">{item.title}</h3>
                                 <p className="text-md">{item.description}</p>
                             </div>
-                            <a className="projects--link "href="https://github.com/amyfan7" target="blank"><FontAwesomeIcon icon={faArrowUpRightFromSquare}/>View Github</a>
+                            <a className="projects--link "href={item.link} target="blank"><FontAwesomeIcon icon={faArrowUpRightFromSquare}/>View Github</a>
                         </div>
                     </div>
                 ))}

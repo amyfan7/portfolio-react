@@ -26,14 +26,14 @@
         }
     ],
 
-    "portfolio": [
+    "projects": [
 
         {
             "id": "1",
             "source": "./img/website.jpeg",
             "title": "Portfolio Website",
             "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique.",
-            "link": "View in Github"
+            "link": "https://github.com/amyfan7/portfolio-react"
         }
     ]
 }
