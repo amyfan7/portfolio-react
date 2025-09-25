@@ -36,8 +36,17 @@ function Navbar() {
 
     return (
         <nav className={`navbar ${navActive ? "active" : ""}`}>
-            <div className="navbar--logo">
-                <img src="./img/logo.png" alt="Logo" />
+            <div>
+                <Link 
+                    onClick={closeMenu}
+                    activeClass="navbar--active-content"
+                    spy={true}
+                    smooth={true}
+                    offset={-70}
+                    duraction={500}
+                    to="hero"
+                    className="navbar--logo"
+                    ><img src="./img/logo.png" alt="logo" /></Link>
             </div>
             <a className={`nav__hamburger ${navActive ? "active" : ""}`} onClick={toggleNav} >
                 <span className="nav__hamburger__line"></span>
