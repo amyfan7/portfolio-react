@@ -19,7 +19,8 @@ export default function Projects () {
                         <div className="projects--section--card--content">
                             <div>
                                 <h3 className="projects--section--title">{item.title}</h3>
-                                <p className="text-md">{item.description}</p>
+                                <p className="section--description">{item.description}</p>
+                                <p className="section--skills">{item.skills}</p>
                             </div>
                             <a className="projects--link "href={item.link} target="blank"><FontAwesomeIcon icon={faArrowUpRightFromSquare}/>View Github</a>
                         </div>

@@ -8,7 +8,7 @@ export default function HeroSection() {
         <section id="hero" className="hero--section">
             <div className="hero--section--content--box">
                 <div className="hero--section--content">
-                    <p className="section--title">Computer Science Student</p>
+                    <p>Computer Science Student</p>
                     <h1 className="hero--section--title">
                         Hi, I'm <span className="hero--section--title--color">Amy!</span>{" "}
                     </h1>
