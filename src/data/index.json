@@ -2,27 +2,27 @@
     "skills": [
         {
             "id": "1",
-            "source": "./img/map.png",
-            "title": "...",
-            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+            "source": "./img/loujo.jpg",
+            "title": "Software Developer Intern",
+            "dates": "September 2025 - Present",
+            "description": "Designed and implemented a React application for a children educational platform. Conducted research to figure out the best suited features for an educational app.",
+            "skills": "React, Front-end Programming, Research"
         },
         {
             "id": "2",
-            "source": "./img/logo.png",
-            "title": "...",
-            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+            "source": "./img/map.png",
+            "title": "Front-End Programmer",
+            "dates": "July 2025 - Present",
+            "description": "Designed and implemented a Java-based mapping application to visualize geospatial data points on interactive maps.",
+            "skills": "Java Swing, API Integration, GeoTools, Dependency Management"
         },
         {
             "id": "3",
-            "source": "./img/logo.png",
-            "title": "...",
-            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
-        },
-        {
-            "id": "4",
-            "source": "./img/logo.png",
-            "title": "...",
-            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique."
+            "source": "./img/depaul.jpg",
+            "title": "Supplemental Instruction Leader",
+            "dates": "March 2025 - June 2025",
+            "description": "Facilitated 2-3 weekly collaborative review sessions for Data Structures students, reviewing core concepts like linked-lists, stacks, queues, and trees through guided practice.",
+            "skills": "Data Structures, Algorithms, Teaching and Collaboration"
         }
     ],
 
@@ -32,7 +32,8 @@
             "id": "1",
             "source": "./img/website.jpeg",
             "title": "Portfolio Website",
-            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit. Suspenmdisse varius eim in eros elementum tristique.",
+            "description": "I designed and implemented a single-page React application to highlight professional experience and personal projects.",
+            "skills": "React, CSS",
             "link": "https://github.com/amyfan7/portfolio-react"
         }
     ]
