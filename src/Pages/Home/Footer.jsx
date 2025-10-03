@@ -75,7 +75,7 @@ function Footer() {
             </li>
             <li>
               <a 
-              href="./img/resume.pdf"
+              href="./img/Amy Fan-Resume-2025.pdf"
               className="navbar--content"
               target="blank">
                 <FontAwesomeIcon icon={faFile} /></a>

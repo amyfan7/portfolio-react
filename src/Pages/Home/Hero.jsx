@@ -20,7 +20,7 @@ export default function HeroSection() {
                     <a href="https://github.com/amyfan7" target="blank">
                     <button type="button" className="btn hero--btn">GITHUB <FontAwesomeIcon icon={faGithub} /></button></a>
 
-                    <a href="./img/resume.pdf" target="blank">
+                    <a href="./img/Amy Fan-Resume-2025.pdf" target="blank">
                     <button type="button" className="btn hero--btn">RESUME <FontAwesomeIcon icon={faFile} /></button></a>
                 </div>
             </div>
