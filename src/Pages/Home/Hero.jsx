@@ -14,7 +14,7 @@ export default function HeroSection() {
                     </h1>
                 </div>
                 <div className="hero--buttons">
-                    <a href="https://linkedin.com/in/amy-fan-87580b256" target="blank">
+                    <a href="https://linkedin.com/in/amyfan7/" target="blank">
                     <button type="button" className="btn hero--btn">LINKEDIN <FontAwesomeIcon icon={faLinkedin} /></button></a>
 
                     <a href="https://github.com/amyfan7" target="blank">

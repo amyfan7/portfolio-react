@@ -61,7 +61,7 @@ function Footer() {
           <ul>
             <li>
               <a 
-              href="https://linkedin.com/in/amy-fan-87580b256"
+              href="https://linkedin.com/in/amyfan7/"
               className="navbar--content"
               target="blank">
                 <FontAwesomeIcon icon={faLinkedin} /></a>
