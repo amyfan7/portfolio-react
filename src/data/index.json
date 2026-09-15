@@ -2,22 +2,30 @@
     "skills": [
         {
             "id": "1",
-            "source": "./img/loujo.jpg",
-            "title": "Software Developer Intern",
-            "dates": "September 2025 - Present",
-            "description": "Designed and implemented a React application for a children educational platform. Conducted research to figure out the best suited features for an educational app.",
-            "skills": "React, Front-end Programming, Research"
+            "source": "./img/hcsc.png",
+            "title": "Associate Developer Intern",
+            "dates": "June 2026 - August 2026",
+            "description": "Developed and integrated a new full-stack feature for initiating insurance renewal requests within a microservices-based application deployed on Kubernetes.",
+            "skills": "Java, Spring Boot, Angular, Kubernetes, JUnit, Mockito, Apache Camel"
         },
         {
             "id": "2",
             "source": "./img/map.png",
-            "title": "Front-End Programmer",
-            "dates": "July 2025 - Present",
+            "title": "Frontend Programmer",
+            "dates": "July 2025 - January 2026",
             "description": "Designed and implemented a Java-based mapping application to visualize geospatial data points on interactive maps.",
             "skills": "Java Swing, API Integration, GeoTools, Dependency Management"
         },
         {
             "id": "3",
+            "source": "./img/loujo.jpg",
+            "title": "Software Developer Intern",
+            "dates": "September 2025 - December 2025",
+            "description": "Designed and implemented a React application for a children educational platform. Conducted research to figure out the best suited features for an educational app.",
+            "skills": "React, Front-end Programming, Research"
+        },
+        {
+            "id": "4",
             "source": "./img/depaul.jpg",
             "title": "Supplemental Instruction Leader",
             "dates": "March 2025 - June 2025",
@@ -30,6 +38,14 @@
 
         {
             "id": "1",
+            "source": "./img/puzzlestore.png",
+            "title": "Puzzle Store",
+            "description": "Puzzle Store is a Spring Boot web application for managing and serving puzzle data. The project is built with Java and Maven, with PostgreSQL persistence, Spring Data JPA, Spring Security, and Thymeleaf for the web layer.",
+            "skills": "Java, Spring Boot, Thymeleaf, PostgreSQL, Maven",
+            "link": "https://github.com/amyfan7/puzzle-store"
+        },
+        {
+            "id": "2",
             "source": "./img/website.jpeg",
             "title": "Portfolio Website",
             "description": "I designed and implemented a single-page React application to highlight professional experience and personal projects.",
